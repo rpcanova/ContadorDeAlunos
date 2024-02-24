@@ -44,7 +44,7 @@ class _HomeState extends State<Home> {
       body: Stack(
         children: <Widget>[
           Image.asset(
-            "images/imagem.jpg",
+            "images/fatec_ferraz_2.jpg",
             fit: BoxFit.cover,
             height: 250,
           ),
